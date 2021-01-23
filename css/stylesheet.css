@@ -1,0 +1,66 @@
+/*coolors.co palette:
+light grey	#D8DBE2
+steel blue	#A9BCD0
+cadet blue	#58A4B0
+charcoal:	#373F51
+dark grey:	#1B1B1E */
+
+/*Global styles
+-----------------------------------------------*/
+body {
+	background-color: #D8DBE2;
+	color: #1B1B1E
+}
+img {
+	width:300px;
+}
+
+/*Profile
+-----------------------------------------------*/
+header {
+	background: #373F51;
+	color: #D8DBE2;
+}
+
+
+/*Projects
+-----------------------------------------------*/
+.projects-section{
+}
+
+.btn {
+	color: #D8DBE2;
+	background: #373F51;
+	text-decoration: none;
+	padding: 8px;
+	border-radius: 4px;
+}
+
+.btn:hover{
+	color: rgb(216, 219, 226, 50%);
+}
+
+
+/*Work experience
+-----------------------------------------------*/
+.work-experience {
+	background: #A9BCD0;
+}
+
+
+/*Education
+-----------------------------------------------*/
+.education-section {
+}
+
+/*Contact info
+-----------------------------------------------*/
+footer {
+	background: #373F51;
+	color: #D8DBE2;
+}
+
+footer a {
+	color:#ffffff;
+}
+
